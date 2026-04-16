@@ -8,5 +8,5 @@ Projekt zawiera się w 2 plikach o formacie .py: kalkulator oraz testy.
 Praca w parach na 1 kodzie, link do kodu:
 https://github.com/Mati-Muli/Praktyka_programowania
 
-# Zajęcia 3 - 16.04.2026
+## Zajęcia 3 - 16.04.2026
 
