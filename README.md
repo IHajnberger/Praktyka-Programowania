@@ -39,3 +39,12 @@ Link do repozytorium z kodem do refaktoryzacji:
 
 https://github.com/emilybache/Tennis-Refactoring-Kata/tree/main/python
 
+## Zajęcia 4 - 14.05.2026
+
+Celem laboratorium było zapoznanie się z pojęciem wzorców projektowych. 
+
+W ramach zajęć należało napisać czytelną instrukcję opisującą zadany wzorzec projektowy, a następnie na podstawie instrukcji drugiej osoby zaimplementować jej wzorzec projektowy.
+
+Folder składa się z:
+- instrukcji dla wzorca Budowniczego
+- przykładowego kodu implementującego wzorzec sturkturalny - Fasada
