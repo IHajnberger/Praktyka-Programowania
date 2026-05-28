@@ -48,3 +48,7 @@ W ramach zajęć należało napisać czytelną instrukcję opisującą zadany wz
 Folder składa się z:
 - instrukcji dla wzorca Budowniczego
 - przykładowego kodu implementującego wzorzec sturkturalny - Fasada
+
+## Zajęcia 5 - 28.05.2026
+
+https://github.com/IHajnberger/PraktykiProgramowania_LAB5
