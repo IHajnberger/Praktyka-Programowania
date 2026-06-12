@@ -55,4 +55,4 @@ https://github.com/IHajnberger/PraktykiProgramowania_LAB5
 
 ## Zajęcia 6 - 11.06.2026
 
-[Link do raportu](https://github.com/IHajnberger/Praktyka-Programowania/blob/main/Zaj%C4%99cia%206/Praktyka_Programowania_Lab6.pdf)
+[Link do sprawozdania](https://github.com/IHajnberger/Praktyka-Programowania/blob/main/Zaj%C4%99cia%206/Praktyka_Programowania_Lab6.pdf)
