@@ -51,7 +51,7 @@ Folder składa się z:
 
 ## Zajęcia 5 - 28.05.2026
 
-https://github.com/IHajnberger/PraktykiProgramowania_LAB5
+https://github.com/IHajnberger/PraktykaProgramowania_Lab5
 
 ## Zajęcia 6 - 11.06.2026
 
